@@ -1,0 +1,107 @@
+body {
+    background-color: black;
+    color: whitesmoke;
+    display: inline;
+}
+.a{
+    
+   margin-left: 50px;
+
+}
+
+heading a {
+    font-weight: 800px;
+    margin: 20px 50px 70px 120px;
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+}
+.a h2{
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: 500;
+    color: #008099;
+    letter-spacing: 2px;
+    display: block;
+    padding-bottom: 20px;
+}
+
+.a h1{
+    font-size: 48px;
+    max-width: 50%;
+}
+
+.a p{
+    max-width: 500px;
+    color: gray;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.b{
+    float: right;
+   padding: 50px  10PX 200PX 0PX;
+}
+
+.b h1{
+    font-size: medium;
+    color: #008099;
+    inline-size: 1.1;
+}
+
+.b p{
+    font-size: xx-large;
+    font-weight: 700px;
+    text-align: center;
+    font-family: inherit;
+    margin: 0px 50px 50px 0px;
+}
+button{
+background-color: #008099;
+padding: 20px 50px 20px 50px;
+border-radius: 40px ;
+color: white;
+font-family: 'Courier New', monospace;
+font-size: larger;
+}
+
+aside{
+    color: #008099;
+     margin-top: 50px;
+}
+
+
+.fa{
+    padding: 18px;
+    font-size: 40px;
+      border-radius: 10%;
+    width: 50px;
+    text-decoration: none;
+    margin: 2px 2px;
+  }
+  
+  .fa:hover{
+      opacity: 0.7;
+  }
+  .fa-facebook{
+    background: #fff;
+    color: black;
+  }
+  
+  .fa-instagram{
+    background: #fff;
+    color: black;
+  }
+
+  .footer h1{
+    text-align: center;
+    font-weight: 10;
+    font-size: 30px;
+    padding: 200px 0px 20px 0px;
+    
+}
+
+.footer div{
+    text-align: center;
+    padding: 20px
+}
